@@ -4,5 +4,5 @@ The age old and famous snake game written in Python.It uses Python Turtle Graphi
 ## Samples/Screenshots
 
 ![](python_snake_1.png)
+![](python_snake_3.png)
 ![](python_snake_2.png)
-![])python_snake_3.png)
